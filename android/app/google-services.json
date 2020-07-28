@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590355669526",
+    "firebase_url": "https://first-firebase-d982b.firebaseio.com",
+    "project_id": "first-firebase-d982b",
+    "storage_bucket": "first-firebase-d982b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590355669526:android:d7bd4953130e1b1728cb37",
+        "android_client_info": {
+          "package_name": "com.jack.introductiontowidgets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590355669526-js9mnbfqfii15do6545pvo0utucr4ivb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BoIpeY5DdqxWME1UwF0F0zFhFmGeJ5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590355669526-js9mnbfqfii15do6545pvo0utucr4ivb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590355669526-ffi77lgklmhehdhm2g17euudnp57sdhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jack.introductiontowidgets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
